@@ -248,3 +248,6 @@ This repository serves as the official landing page for Quick3DPlan. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Quick3DPlan today!**
+
+---
+**Last updated:** 2026-09-10 22:56:07 UTC
